@@ -9,6 +9,8 @@
   
   Use for only study & investigate purpose, please.
   
+  ## This is...
+  A trial of solving: Make "reasonable" initial means with KNN, for K-means to use with.
   
   ## To run
   Run Term.py
